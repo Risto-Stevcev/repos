@@ -1,0 +1,3 @@
+[submodule "cl-micropm"]
+	path = cl-micropm
+	url = ../cl-micropm
